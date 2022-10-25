@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pixamon</string>
+    <string name="dev_name">Pumpkin Pontifex</string>
+
+    <string name="button_text">Parse!</string>
+    <string name="api_url">https://app.pixelencounter.com/api/basic/monsters/random/png?size=1024</string>
+</resources>
