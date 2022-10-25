@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Button mButton = this.findViewById(R.id.parseButton);
+        Button mButton = findViewById(R.id.parseButton);
 //        mImageView = this.findViewById(R.id.monsterImageView);
 
         if(mButton != null)
